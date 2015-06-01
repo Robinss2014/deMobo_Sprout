@@ -4,7 +4,8 @@ An experimental project for sprout in deMobo
 -------------------------------------------------
 
 	Instructions:
-		After modified and saves the files, run nw.exe will launch the application in Sprout.
+		1. Get others folder from Dropbox
+		2. After modified and saves the files, run nw.exe will launch the application in Sprout.
 		
 -------------------------------------------------
 	Descriptions:
