@@ -1,0 +1,21 @@
+{
+  "name": "demobo for Sprout",
+  "main": "index.html",
+  "window": {
+    // main window with frame
+    "frame": true,
+    "width": 1920,
+    "height": 1080,
+    "toolbar": true,
+    // "position": "center",
+    "resizable": true
+
+    // main window without frame
+    // "frame": false,
+    // "width": 1920,
+    // "height": 1080,
+    // "toolbar": false,
+    // "position": "center",
+    // "resizable": false
+  }
+}
