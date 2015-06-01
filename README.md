@@ -4,7 +4,7 @@ An experimental project for sprout in deMobo
 -------------------------------------------------
 
 	Instructions:
-		1. Get others folder from Dropbox
+		1. Get others folder from Dropbox(https://www.dropbox.com/home/deMobo/Sprout)
 		2. After modified and saves the files, run nw.exe will launch the application in Sprout.
 		
 -------------------------------------------------
